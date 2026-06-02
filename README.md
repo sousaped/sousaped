@@ -54,7 +54,7 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 
 <div align="center">
 
-![Linguagens mais usadas](<img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&theme=radical"/>)
+<img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&theme=radical"/>
 
 
 ![snake gif](https://raw.githubusercontent.com/sousaped/sousaped/output/github-contribution-grid-snake.svg)
