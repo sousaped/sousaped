@@ -9,29 +9,14 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 
 ## 👾 Tecnologias
 
-### ☕ Backend
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-
-### 🌐 Frontend
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
-
-### 🗄️ Banco de Dados
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-
-### 🛠️ Ferramentas
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+☕ Backend
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+🌐 Frontend
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+🗄️ Banco de Dados
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+🛠️ Ferramentas
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 
 ---
 
@@ -42,8 +27,8 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 | **🌍 Localização:** | São Paulo - SP 🇧🇷 |
 | **💼 Foco:** | Desenvolvimento Backend |
 | **🌱 Linguagem favorita:** | Java ☕ |
-| **🎓 Graduação:** | Análise e Desenvolvimento de Sistemas |
-| **📚 Estudando atualmente:** | Arquitetura Java & Ecossistema Spring |
+| **🎓 Graduação:** | Análise e Desenvolvimento de Sistemas(Centro Universitario Senac - SP) |
+| **📚 Estudando atualmente:** | Pós Graduação Arquitetura e Desenvolvimento (FIAP - SP) |
 
 ---
 
@@ -54,7 +39,7 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&theme=radical"/>
 
 
-![snake gif](https://raw.githubusercontent.com/sousaped/sousaped/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/sousaped/sousaped/output/github-contribution-grid-snake.svg)
 
 </div>
 
