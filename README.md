@@ -10,14 +10,14 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 ## 👾 Tecnologias
 
 ☕ Backend
-<br/><br/><br/>
+<br/><br/>
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 <br/><br/><br/>
 🌐 Frontend
-<br/><br/><br/>
+<br/><br/>
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;
@@ -29,9 +29,9 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
 <br/><br/><br/>
 🛠️ Ferramentas
-<br/><br/><br/>
+<br/><br/>
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"/>&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>&nbsp;&nbsp;&nbsp;
