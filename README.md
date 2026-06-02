@@ -47,7 +47,6 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 | **🌱 Linguagem favorita:** | Java ☕ |
 | **🎓 Graduação:** | Análise e Desenvolvimento de Sistemas |
 | **📚 Estudando atualmente:** | Arquitetura Java & Ecossistema Spring |
-| **🔗 LinkedIn:** | [alex-sousa-80949a231](https://www.linkedin.com/in/alex-sousa-80949a231/) |
 
 ---
 
@@ -55,11 +54,8 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=sousaped&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens mais usadas]<img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&theme=radical"/>
 
-![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&langs_count=8&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sousaped&theme=radical&hide_border=true&locale=pt_BR)
 
 ![snake gif](https://raw.githubusercontent.com/sousaped/sousaped/output/github-contribution-grid-snake.svg)
 
@@ -83,8 +79,5 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
   </a>
   <a href="https://www.linkedin.com/in/alex-sousa-80949a231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sousaped" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
