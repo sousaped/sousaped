@@ -58,9 +58,6 @@ Fique à vontade para explorar meus projetos, entrar em contato para discutir op
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sousaped&layout=compact&theme=radical"/>
 
-
-![snake gif](https://raw.githubusercontent.com/sousaped/sousaped/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
